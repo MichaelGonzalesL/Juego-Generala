@@ -1,0 +1,370 @@
+# depslib dependency file v1.0
+1656874101 source:c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala\prototipogenerala\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	"funciones.h"
+	"jugador1.h"
+
+1657136539 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala\prototipogenerala\funciones.h
+
+1657081725 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala\prototipogenerala\jugador1.h
+
+1656302738 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala\prototipogenerala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657508095 source:c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala(m)\prototipogenerala\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	"funciones.h"
+	"jugador1.h"
+	"funciones2.h"
+	"jugador2.h"
+	"puntuaciones.h"
+
+1656302738 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala(m)\prototipogenerala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657494498 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala(m)\prototipogenerala\funciones.h
+
+1657508095 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala(m)\prototipogenerala\jugador1.h
+
+1657498330 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala(m)\prototipogenerala\jugador2.h
+
+1657507833 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala(m)\prototipogenerala\funciones2.h
+
+1657507536 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\proyecto  prototipo generala(m)\prototipogenerala\puntuaciones.h
+
+1657508095 source:c:\users\lei_v\downloads\prototipogenerala (1)\prototipogenerala\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	"funciones.h"
+	"jugador1.h"
+	"funciones2.h"
+	"jugador2.h"
+	"puntuaciones.h"
+
+1656302738 c:\users\lei_v\downloads\prototipogenerala (1)\prototipogenerala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657514336 c:\users\lei_v\downloads\prototipogenerala (1)\prototipogenerala\funciones.h
+
+1657514199 c:\users\lei_v\downloads\prototipogenerala (1)\prototipogenerala\jugador1.h
+
+1657507833 c:\users\lei_v\downloads\prototipogenerala (1)\prototipogenerala\funciones2.h
+
+1657498330 c:\users\lei_v\downloads\prototipogenerala (1)\prototipogenerala\jugador2.h
+
+1657512087 c:\users\lei_v\downloads\prototipogenerala (1)\prototipogenerala\puntuaciones.h
+
+1657539684 source:c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\prototipogenerala\prototipogenerala\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	"funciones.h"
+	"jugador1.h"
+	"funciones2.h"
+	"jugador2.h"
+	"puntuaciones.h"
+
+1656302738 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\prototipogenerala\prototipogenerala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657514952 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\prototipogenerala\prototipogenerala\funciones.h
+
+1657514199 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\prototipogenerala\prototipogenerala\jugador1.h
+
+1657507833 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\prototipogenerala\prototipogenerala\funciones2.h
+
+1657498330 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\prototipogenerala\prototipogenerala\jugador2.h
+
+1657539698 c:\users\54115\desktop\utn programacion+\labooratorio de computacion 1\prototipogenerala\prototipogenerala\puntuaciones.h
+
+1657652525 source:c:\users\lei_v\desktop\tp generala\prototipogenerala\prototipogenerala\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	"funciones.h"
+	"jugador1.h"
+	"funciones2.h"
+	"jugador2.h"
+	"puntuaciones.h"
+	"modosimulado.h"
+
+1656302738 c:\users\lei_v\desktop\tp generala\prototipogenerala\prototipogenerala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657654263 c:\users\lei_v\desktop\tp generala\prototipogenerala\prototipogenerala\funciones.h
+
+1657514199 c:\users\lei_v\desktop\tp generala\prototipogenerala\prototipogenerala\jugador1.h
+
+1657649969 c:\users\lei_v\desktop\tp generala\prototipogenerala\prototipogenerala\funciones2.h
+
+1657498330 c:\users\lei_v\desktop\tp generala\prototipogenerala\prototipogenerala\jugador2.h
+
+1657652899 c:\users\lei_v\desktop\tp generala\prototipogenerala\prototipogenerala\puntuaciones.h
+
+1657654263 c:\users\lei_v\desktop\tp generala\prototipogenerala\prototipogenerala\modosimulado.h
+
+1657658645 source:c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogenerala\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	"funciones.h"
+	"jugador1.h"
+	"funciones2.h"
+	"jugador2.h"
+	"puntuaciones.h"
+	"modosimulado.h"
+
+1656302738 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogenerala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657657790 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogenerala\funciones.h
+
+1657514199 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogenerala\jugador1.h
+
+1657649969 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogenerala\funciones2.h
+
+1657498330 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogenerala\jugador2.h
+
+1657658881 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogenerala\puntuaciones.h
+
+1657686169 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogenerala\modosimulado.h
+
+1657708296 source:c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogeneralafinal\prototipogenerala\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	"funciones.h"
+	"jugador1.h"
+	"funciones2.h"
+	"jugador2.h"
+	"puntuaciones.h"
+	"modosimulado.h"
+
+1656302738 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogeneralafinal\prototipogenerala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657657790 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogeneralafinal\prototipogenerala\funciones.h
+
+1657707421 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogeneralafinal\prototipogenerala\jugador1.h
+
+1657649969 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogeneralafinal\prototipogenerala\funciones2.h
+
+1657708524 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogeneralafinal\prototipogenerala\jugador2.h
+
+1657708745 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogeneralafinal\prototipogenerala\puntuaciones.h
+
+1657708524 c:\users\lei_v\desktop\tp generala\prototipogeneralafinal\prototipogeneralafinal\prototipogenerala\modosimulado.h
+
+1657871982 source:c:\users\lei_v\desktop\reposgithub\juego_generala\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	"funciones.h"
+	"jugador1.h"
+	"funciones2.h"
+	"jugador2.h"
+	"puntuaciones.h"
+	"modosimulado.h"
+
+1656302738 c:\users\lei_v\desktop\reposgithub\juego_generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657872860 c:\users\lei_v\desktop\reposgithub\juego_generala\funciones.h
+
+1657873200 c:\users\lei_v\desktop\reposgithub\juego_generala\jugador1.h
+
+1657649969 c:\users\lei_v\desktop\reposgithub\juego_generala\funciones2.h
+
+1657708524 c:\users\lei_v\desktop\reposgithub\juego_generala\jugador2.h
+
+1657708745 c:\users\lei_v\desktop\reposgithub\juego_generala\puntuaciones.h
+
+1657872860 c:\users\lei_v\desktop\reposgithub\juego_generala\modosimulado.h
+
+1718719574 source:c:\users\micha\onedrive\escritorio\juego_generala\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	"funciones.h"
+	"jugador1.h"
+	"funciones2.h"
+	"jugador2.h"
+	"puntuaciones.h"
+	"modosimulado.h"
+
+1718719574 c:\users\micha\onedrive\escritorio\juego_generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718719574 c:\users\micha\onedrive\escritorio\juego_generala\funciones.h
+
+1718719574 c:\users\micha\onedrive\escritorio\juego_generala\jugador1.h
+
+1718719574 c:\users\micha\onedrive\escritorio\juego_generala\funciones2.h
+
+1718719574 c:\users\micha\onedrive\escritorio\juego_generala\jugador2.h
+
+1718719574 c:\users\micha\onedrive\escritorio\juego_generala\puntuaciones.h
+
+1718719574 c:\users\micha\onedrive\escritorio\juego_generala\modosimulado.h
+

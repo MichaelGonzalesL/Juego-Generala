@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="jugador2.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="178" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="funciones2.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8499" topLine="61" />
+		</Cursor>
+		<Folding>
+			<Collapse line="39" />
+			<Collapse line="47" />
+			<Collapse line="57" />
+			<Collapse line="73" />
+			<Collapse line="142" />
+			<Collapse line="193" />
+			<Collapse line="247" />
+			<Collapse line="304" />
+			<Collapse line="318" />
+			<Collapse line="354" />
+			<Collapse line="388" />
+		</Folding>
+	</File>
+	<File name="puntuaciones.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="201" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="rlutil.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4293" topLine="290" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="852" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="modosimulado.h" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2575" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="jugador1.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1777" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="funciones.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22727" topLine="136" />
+		</Cursor>
+		<Folding>
+			<Collapse line="55" />
+			<Collapse line="68" />
+			<Collapse line="81" />
+			<Collapse line="82" />
+			<Collapse line="96" />
+			<Collapse line="111" />
+			<Collapse line="112" />
+			<Collapse line="129" />
+			<Collapse line="148" />
+			<Collapse line="157" />
+			<Collapse line="159" />
+			<Collapse line="165" />
+			<Collapse line="170" />
+			<Collapse line="181" />
+			<Collapse line="197" />
+			<Collapse line="230" />
+			<Collapse line="264" />
+			<Collapse line="268" />
+			<Collapse line="277" />
+			<Collapse line="284" />
+			<Collapse line="289" />
+			<Collapse line="312" />
+			<Collapse line="318" />
+			<Collapse line="333" />
+			<Collapse line="344" />
+			<Collapse line="400" />
+			<Collapse line="456" />
+			<Collapse line="489" />
+			<Collapse line="522" />
+			<Collapse line="528" />
+			<Collapse line="539" />
+			<Collapse line="586" />
+			<Collapse line="599" />
+			<Collapse line="688" />
+			<Collapse line="723" />
+			<Collapse line="739" />
+			<Collapse line="746" />
+			<Collapse line="757" />
+			<Collapse line="764" />
+			<Collapse line="775" />
+			<Collapse line="783" />
+			<Collapse line="794" />
+			<Collapse line="801" />
+			<Collapse line="812" />
+			<Collapse line="819" />
+			<Collapse line="830" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
